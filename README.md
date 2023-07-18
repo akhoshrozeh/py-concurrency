@@ -1,1 +1,2 @@
 # py-concurrency
+These are just some short examples of 3 main ways to achieve concurrency in Python. Each method of concurrency has its pros and cons, and therefore should be used appropriately in according to the problem at hand. 
